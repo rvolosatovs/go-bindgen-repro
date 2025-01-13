@@ -1,0 +1,5 @@
+package repro:repro@0.1.0;
+
+world imports {
+    import wasi:http/types@0.2.1;
+}
