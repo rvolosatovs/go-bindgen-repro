@@ -1,5 +1,6 @@
 package repro:repro@0.1.0;
 
+// NOTE: this works with world named `imports`
 world imports {
-    import wasi:http/types@0.2.1;
+    include wasi:cli/imports@0.2.1;
 }
