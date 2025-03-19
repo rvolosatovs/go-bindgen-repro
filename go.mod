@@ -12,8 +12,8 @@ require (
 	github.com/tetratelabs/wazero v1.9.0 // indirect
 	github.com/ulikunitz/xz v0.5.12 // indirect
 	github.com/urfave/cli/v3 v3.0.0-beta1 // indirect
-	go.bytecodealliance.org v0.5.1-0.20250304021736-cfe612d34fe9 // indirect
-	go.bytecodealliance.org/cm v0.1.1-0.20250304021736-cfe612d34fe9 // indirect
+	go.bytecodealliance.org v0.6.2 // indirect
+	go.bytecodealliance.org/cm v0.2.2 // indirect
 	golang.org/x/mod v0.24.0 // indirect
 	golang.org/x/sys v0.31.0 // indirect
 )
