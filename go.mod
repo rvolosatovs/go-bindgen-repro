@@ -4,7 +4,7 @@ go 1.24.1
 
 tool go.bytecodealliance.org/cmd/wit-bindgen-go
 
-require go.bytecodealliance.org/cm v0.2.2
+require go.bytecodealliance.org/cm v0.2.3-0.20250317030502-0e3b31e354b3
 
 require (
 	github.com/coreos/go-semver v0.3.1 // indirect
